@@ -1,3 +1,3 @@
 # hello-world
 First test repo.
-My firs project uploaded to GIT
+My first project uploaded to GIT
